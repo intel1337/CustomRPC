@@ -14,13 +14,13 @@ Project isn't finished ! Made with Hard Work, Documentations, Github Copilot.
 ### CustomRPC Screenshot
 <img width="568" alt="Screenshot 2024-09-10 at 8 23 25 AM" src="https://github.com/user-attachments/assets/1abf9797-8e64-436b-8c96-dd26b0845357">
 
-
-
 # Concept 
 
-- IP tracking, City and Coordinates (IPv4 / URL)
-- Email Verifier, Finder on Websites.
-- Domain Osint.
+- Creates a Rich Presence for Discord !
+- Customizable with all features
+> Example :
+<img width="297" alt="image" src="https://github.com/user-attachments/assets/f5a1754b-ba3a-4672-9515-110358695a39">
+
 
 ## Start / setup
 
