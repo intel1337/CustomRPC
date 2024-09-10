@@ -24,11 +24,9 @@ Project isn't finished ! Made with Hard Work, Documentations, Github Copilot.
 
 ## Start / setup
 
-![image](https://github.com/intel1337/Aphelios/assets/93615583/c2610d98-081c-4886-a305-c863d073afdf)
-
 ```
-1 - Install the script's modules (setup.bat) / Open a shell and type : "pip install requirements.txt
-2 - Open Settings.txt and put your Hunter.io API key between the double quotes "" (you need to create an account)
+1 - You need Python, and have pip in your shell.
+2 - Open a shell, and type pip install -r requirements.txt / or you can install manually pypresence and colorama with pip install ... still in a shell
 3 - Open main.py / start.bat / Aphelios.exe or open a shell and type "python3 main.py / python main.py"
 
 ```
