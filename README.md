@@ -26,7 +26,7 @@ Project isn't finished ! Made with Hard Work, Documentations, Github Copilot.
 
 ```
 1 - You need Python, and have pip in your shell.
-2 - Open a shell, and type pip install -r requirements.txt / or you can install manually pypresence and colorama with pip install ... still in a shell
+2 - Open a shell, and type pip install -r requirements.txt / or you can install manually pypresence and coloram
 3 - Open main.py / start.bat / Aphelios.exe or open a shell and type "python3 main.py / python main.py"
 
 ```
