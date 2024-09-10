@@ -26,8 +26,8 @@ Project isn't finished ! Made with Hard Work, Documentations, Github Copilot.
 
 ```
 1 - You need Python, and have pip in your shell.
-2 - Open a shell, and type pip install -r requirements.txt / or you can install manually pypresence and coloram
-3 - In the same directory as the files, type python main.py / python3 main.py and press enter !
+2 - Open a shell, and type pip install -r requirements.txt
+3 - In the same directory as the files, type python main.py / python3 main.py
 4 - Exe file and Windows full Support is coming soon.
 
 ```
