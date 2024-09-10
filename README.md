@@ -1,6 +1,6 @@
 # Custom RPC Project 
 
-##### Custom Discord Rpc maker with all features included !
+### Custom Discord Rpc maker with all features included !
 Project isn't finished ! Made with Hard Work, Documentations, Github Copilot.
 
 # Release 10/09/24 On Github (OpenSource)
